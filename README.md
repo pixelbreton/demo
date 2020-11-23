@@ -4,4 +4,4 @@ This is a simple readme file
 
 ##Heading 2.0
 
-Some changes to see in difftool, on a branch
+I hope this isn't much of a trouble
